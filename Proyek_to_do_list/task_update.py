@@ -1,4 +1,4 @@
-from task_storage import save_tasks
+from storage import save_tasks
 
 def update_task(tasks):
 
